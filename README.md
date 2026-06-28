@@ -49,4 +49,8 @@ Vanilla HTML + CSS + JavaScript. Zero frameworks. Zero build steps. One file.
 
 ---
 
+If PixelFixer saved you some time, consider supporting it ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/renevalenz)
+
 Made with ☕ for the pixel art community.
