@@ -31,7 +31,7 @@ Upload a sprite sheet and let PixelFixer detect, cut and normalize every frame a
 
 Just open `index.html` in any modern browser. That's it.
 
-Or use the live version at: **[yourusername.github.io/pixelfixer](https://github.com)**
+Or use the live version at: **[https://renevalenz.github.io/pixelfixer/](https://github.com)**
 
 ---
 
